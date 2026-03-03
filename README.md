@@ -125,13 +125,13 @@ Created two dashboard pages:
 
 ### Global Logistics Performance Overview
 
-![Overview Dashboard](Screenshots/Global Logistics Performance Overview.png)
+![Overview Dashboard](Screenshots/Global_Logistics_Performance_Overview.png)
 
 ---
 
 ### Logistics Deep Dive Analysis
 
-![Deep Dive Dashboard](Screenshots/Logistics Deep Dive Analysis.png)
+![Deep Dive Dashboard](Screenshots/Logistics_Deep_Dive_Analysis.png)
 
 ---
 
@@ -229,4 +229,5 @@ Skills:
 - SQL
 - Power BI
 - Excel
-- Python
+
+
